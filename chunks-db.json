@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "text": "Course Title: Introduction to Artificial Intelligence This course provides a comprehensive overview of fundamental concepts in artificial intelligence, including search algorithms, knowledge representation, machine learning, and natural language processing. Students will explore how intelligent systems are designed to solve complex problems and simulate human reasoning. The course emphasizes both theoretical"
+  },
+  {
+    "id": 2,
+    "text": "problems and simulate human reasoning. The course emphasizes both theoretical understanding and practical implementation of AI techniques. Unit 1 introduces the foundations of artificial intelligence, including problem solving, state space representation, and uninformed search strategies such as breadth first search, depth first search, and uniform cost search. Students will learn"
+  },
+  {
+    "id": 3,
+    "text": "depth first search, and uniform cost search. Students will learn how algorithms evaluate possible solutions efficiently and systematically. Unit 2 covers informed search techniques including heuristic based approaches such as greedy best first search and A star search. Topics include admissibility, consistency, and evaluation of heuristic functions to improve search"
+  },
+  {
+    "id": 4,
+    "text": "admissibility, consistency, and evaluation of heuristic functions to improve search efficiency. Unit 3 focuses on knowledge representation methods including propositional logic, predicate logic, semantic networks, and ontologies. Students will understand how knowledge can be structured to support reasoning and decision making in intelligent systems. Unit 4 introduces machine learning fundamentals"
+  },
+  {
+    "id": 5,
+    "text": "making in intelligent systems. Unit 4 introduces machine learning fundamentals such as supervised learning, unsupervised learning, and reinforcement learning. Students will study regression, classification, clustering, and model evaluation techniques used to build predictive models. Unit 5 explores natural language processing concepts including text preprocessing, tokenization, sentiment analysis, and language modeling."
+  },
+  {
+    "id": 6,
+    "text": "concepts including text preprocessing, tokenization, sentiment analysis, and language modeling. Students will understand how machines interpret and generate human language for applications such as chatbots and virtual assistants. Assessment methods include quizzes, assignments, a midterm examination, and a final project where students design a simple AI based application demonstrating practical"
+  },
+  {
+    "id": 7,
+    "text": "where students design a simple AI based application demonstrating practical understanding of course concepts."
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "/api/process-document/route": "app/api/process-document/route.js",
+  "/page": "app/page.js"
+}
